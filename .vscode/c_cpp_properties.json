@@ -1,0 +1,46 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ikhyeon/ros/test_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/ikhyeon/ros/test_ws/src/elevation_mapping_cupy/plane_segmentation/convex_plane_decomposition/include/**",
+        "/home/ikhyeon/ros/test_ws/src/elevation_mapping_cupy/plane_segmentation/convex_plane_decomposition_ros/include/**",
+        "/home/ikhyeon/ros/test_ws/src/gridmap_server/costmap_core/include/**",
+        "/home/ikhyeon/ros/test_ws/src/elevation_mapping/elevation_mapping/include/**",
+        "/home/ikhyeon/ros/test_ws/src/elevation_mapping_cupy/elevation_mapping_cupy/include/**",
+        "/home/ikhyeon/ros/test_ws/src/elevation_mapping_cupy/plane_segmentation/grid_map_filters_rsl/include/**",
+        "/home/ikhyeon/ros/test_ws/src/gridmap_server/gridmap_server/include/**",
+        "/home/ikhyeon/ros/test_ws/src/height_mapping/height_map_core/include/**",
+        "/home/ikhyeon/ros/test_ws/src/height_mapping/height_map_loader/include/**",
+        "/home/ikhyeon/ros/test_ws/src/height_mapping/height_map_msgs/include/**",
+        "/home/ikhyeon/ros/test_ws/src/height_mapping/height_map_pcl/include/**",
+        "/home/ikhyeon/ros/test_ws/src/height_mapping/height_map_saver/include/**",
+        "/home/ikhyeon/ros/test_ws/src/height_mapping/height_mapping_ros/include/**",
+        "/home/ikhyeon/ros/test_ws/src/kindr/include/**",
+        "/home/ikhyeon/ros/test_ws/src/kindr_ros/kindr_ros/include/**",
+        "/home/ikhyeon/ros/test_ws/src/kindr_ros/kindr_rviz_plugins/include/**",
+        "/home/ikhyeon/ros/test_ws/src/kindr_ros/multi_dof_joint_trajectory_rviz_plugins/include/**",
+        "/home/ikhyeon/ros/test_ws/src/gridmap_server/occupancy_gridmap_core/include/**",
+        "/home/ikhyeon/ros/test_ws/src/gridmap_server/occupancy_gridmap_msgs/include/**",
+        "/home/ikhyeon/ros/test_ws/src/point_cloud_io/include/**",
+        "/home/ikhyeon/ros/test_ws/src/traversability_mapping_prm/traversability_mapping/include/**",
+        "/home/ikhyeon/ros/test_ws/src/wavefront_planner/wavefront_planner_ros/include/**",
+        "/home/ikhyeon/ros/test_ws/src/wavefront_planner/wavefront_planner_core/include/**",
+        "/home/ikhyeon/ros/test_ws/src/wavefront_planner/wavefront_planner_msgs/include/**",
+        "/home/ikhyeon/ros/test_ws/src/wavefront_planner/waypoint_generator_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
